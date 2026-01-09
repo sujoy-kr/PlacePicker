@@ -1,7 +1,7 @@
-import { useEffect, useRef } from 'react'
+import { useRef, useEffect } from 'react'
 import { createPortal } from 'react-dom'
 
-const Modal = function Modal({ children, open, onClose }) {
+function Modal({ open, children, onClose }) {
     const dialog = useRef()
 
     useEffect(() => {
