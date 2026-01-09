@@ -4,7 +4,7 @@ A modern, mobile-responsive web application that allows users to curate a person
 
 ## 🚀 Live Demo
 
-Check out the live application here: [https://place-picker-hazel.vercel.app](https://place-picker-hazel.vercel.app)
+Check out the live application here: [https://place-picker-beige.vercel.app/](https://place-picker-beige.vercel.app/)
 
 ## 📸 Preview
 
